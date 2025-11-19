@@ -10,3 +10,8 @@
   - The user query is embedded with the same model used to embed the dataset.
 
   - Using the *cosine similarity* the model compares the query with the recipes and it sorts the 100 recipes that are most similar to the user query.
+
+## *summarization_openai*
+- Made when I was learning about LLM. I am very fan of *Souls* series (Dark Souls I, II and III, Sekiro and Elden Ring).
+- It's a *webpage summarization algorithm* that retrieves information from [Elden Ring fandom wiki](https://eldenring.wiki.fextralife.com/) based in what the users type.
+  - It's a simple python code. 
